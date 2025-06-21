@@ -11,3 +11,5 @@ I am planning to make a reversestitch to aid in making custom wallpapers for mod
 Note: the dumps dont include the error/debug wallpaper as it is plain-black, not in the files and isn't supposed to occur in-game.
 
 ## Translator Tool
+A tool to translate and grab the IDs of Yo-kai watch things via the official translations ripped from the gamer, currently only supports YW2, YW3, YW1, YWB1 and YWB2 support is planned. 
+
