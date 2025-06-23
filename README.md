@@ -36,5 +36,5 @@ Open the `APP.html`
 You will be given the item it found in the input AND output language, along with it's ID.
 
 ## Save Editor
-this is an entirely different repo, just wanted to drop it here (give me a star pls XD)
+this is an entirely different repo, just wanted to drop it here (give me a star pls XD). Find it [here](https://github.com/n123git/YWSaveEditor) :)
 
