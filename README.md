@@ -2,7 +2,7 @@
 YW data and asset dumps, primarily focused on YW2
 
 ## Wallpaper Stich
-There are 10 folders named 001-010, 001 is wallpaper ID 0 aka Cool Blue, 002 = ID 1 etc.</br>
+There are 10 folders named `001` through `010` respectively. 001 is wallpaper ID 0 aka Cool Blue, 002 = ID 1 etc.</br>
  These hold dumps of every wallpaper in YW2. in 3 forms: combined, overlay and spritesheet.</br>
 `combined` can be found as `canvas.png` and is what you'd see ingame (but it's one still frame; not animated).</br>
 `overlay` is `001.png` and is the tiled white overlay i.e. flowers.</br>
@@ -27,7 +27,13 @@ For example to dump Cool Blue, you'd import the 000.png as the Main Image, 001.p
   
 ## Translator Tool
 A tool to translate and grab the IDs of Yo-kai watch things via the official translations ripped from the gamer, currently only supports YW2. Although YW3, YW1, YWB1 and YWB2 support is planned.</br>
-This tool supports MacOS, Linux, Windows and ANY modern OS that can run a up-to-date version of a web browser.
+This tool supports MacOS, Linux, Windows and ANY modern OS that can run a up-to-date version of a web browser.</br>
+Open the `APP.html`
+* Select your category i.e. `Key Items`
+* Then select your input language - this is what you translate **from**
+* Also select your output language to translate **to**.
+* Finally, input your search query i.e. "bracelet" or "cheap bra" etc, and select Search.</br>
+You will be given the item it found in the input AND output language, along with it's ID.
 
 ## Save Editor
 this is an entirely different repo, just wanted to drop it here (give me a star pls XD)
