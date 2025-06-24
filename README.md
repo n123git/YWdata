@@ -29,6 +29,9 @@ For example to dump Cool Blue, you'd import the 000.png as the Main Image, 001.p
 A tool to translate and grab the IDs of Yo-kai watch things via the official translations ripped from the gamer, currently only supports YW2. Although YW3, YW1, YWB1 and YWB2 support is planned.</br>
 This tool supports MacOS, Linux, Windows and ANY modern OS that can run a up-to-date version of a web browser.</br>
 Open the `APP.html`
+
+## Location Dumper v42 (v1.0)
+lorem ipsum
 * Select your category i.e. `Key Items`
 * Then select your input language - this is what you translate **from**
 * Also select your output language to translate **to**.
