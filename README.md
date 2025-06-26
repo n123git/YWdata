@@ -26,9 +26,10 @@ The tool has the following settings:
 For example to dump Cool Blue, you'd import the 000.png as the Main Image, 001.png as the Overlay Image. Set it to 4 columns and disable Show Gradient. Then right-click the preview and click "Save as" or "Save Image as".
   
 ## Translator Tool
-A tool to translate and grab the IDs of Yo-kai watch things via the official translations ripped from the gamer, currently only supports YW2. Although YW3, YW1, YWB1 and YWB2 support is planned.</br>
+A tool to translate and grab the IDs of Yo-kai watch things via the official translations ripped from the gamer, currently only supports YW2, and YW1 (YW1 added in v1.1). Although YW3, YW1, YWB1 and YWB2 support is planned.</br>
 This tool supports MacOS, Linux, Windows and ANY modern OS that can run a up-to-date version of a web browser.</br>
-Open the `APP.html`
+Open the `APP.html` to start. Note that the Korean Attitude translations for yw2 may not be accurate.
+Credits to togenyan for alot of the data (more data is coming).
 
 ## Location Dumper v42 (v1.0)
 lorem ipsum
