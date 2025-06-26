@@ -28,16 +28,18 @@ For example to dump Cool Blue, you'd import the 000.png as the Main Image, 001.p
 ## Translator Tool
 A tool to translate and grab the IDs of Yo-kai watch things via the official translations ripped from the gamer, currently only supports YW2, and YW1 (YW1 added in v1.1). Although YW3, YW1, YWB1 and YWB2 support is planned.</br>
 This tool supports MacOS, Linux, Windows and ANY modern OS that can run a up-to-date version of a web browser.</br>
-Open the `APP.html` to start. Note that the Korean Attitude translations for yw2 may not be accurate.
-Credits to togenyan for alot of the data (more data is coming).
-
-## Location Dumper v42 (v1.0)
-lorem ipsum
+Open the `APP.html` to start.
 * Select your category i.e. `Key Items`
 * Then select your input language - this is what you translate **from**
 * Also select your output language to translate **to**.
 * Finally, input your search query i.e. "bracelet" or "cheap bra" etc, and select Search.</br>
-You will be given the item it found in the input AND output language, along with it's ID.
+You will be given the item it found in the input AND output language, along with it's ID.</br>
+Note that the Korean Attitude translations for yw2 may not be accurate.
+Credits to togenyan for alot of the data (more data is coming).
+
+
+## Location Dumper v42 (v1.0)
+lorem ipsum
 
 ## Save Editor
 this is an entirely different repo, just wanted to drop it here (give me a star pls XD). Find it [here](https://github.com/n123git/YWSaveEditor) :)
