@@ -39,7 +39,7 @@ Credits to togenyan for alot of the data (more data is coming).
 
 
 ## Location Dumper v42 (v1.0)
-lorem ipsum
+Input a decrypted save file and it dumps (and lets you edit) your Location and XYZ coordinates. Useful for people who don't like save editing but still may need it i.e. modders.
 
 ## Save Editor
 this is an entirely different repo, just wanted to drop it here (give me a star pls XD). Find it [here](https://github.com/n123git/YWSaveEditor) :)
