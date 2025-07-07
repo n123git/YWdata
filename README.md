@@ -32,7 +32,7 @@ Open the `APP.html` to start.
 * Select your category i.e. `Key Items`
 * Then select your input language - this is what you translate **from**
 * Also select your output language to translate **to**.
-* Finally, input your search query i.e. "bracelet" or "cheap bra" etc, and select Search.</br>
+* Finally, input your search query i.e. "bracelet" or "cheap brac" etc, and select Search.</br>
 You will be given the item it found in the input AND output language, along with it's ID.</br>
 Note that the Korean Attitude translations for yw2 may not be accurate.
 Credits to togenyan for alot of the data (more data is coming).
