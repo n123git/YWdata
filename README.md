@@ -44,3 +44,6 @@ Input a decrypted save file and it dumps (and lets you edit) your Location and X
 ## Save Editor
 this is an entirely different repo, just wanted to drop it here (give me a star pls XD). Find it [here](https://github.com/n123git/YWSaveEditor) :)
 
+## Notes
+- These store data in folders next to the main `.html` - this is important as opening them without extracting the `zip` (double clicking it on windows instead) can cause it to not have access to these files, breaking the tools.
+
