@@ -49,7 +49,7 @@ This website (can be downloaded optionally) functions as a sort of library of ba
 
 ### Features
 - Every coin in supported games
-- Millions-Billions of QR codes for *each* coin in *each* game.
+- Anywhere from 1,679,616 to Billions of QR codes for *each* coin in *each* game.
 - current supported games: YW2
 - planned supported games: YW1, YW1S, YW1P, YW3, YWB, Sangokushi, YWB2, Yo-kai Watch Land, Yo-kai Watch Puni Puni
 
