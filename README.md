@@ -45,7 +45,13 @@ Input a decrypted save file and it dumps (and lets you edit) your Location and X
 this is an entirely different repo, just wanted to drop it here (give me a star pls XD). Find it [here](https://github.com/n123git/YWSaveEditor) :)
 
 ## QRbel
-lorem ipsum dolar sit amet
+This website (can be downloaded optionally) functions as a sort of library of babel - pick a coin and scroll down forever as it generates near-infinite QR codes for that coin.
+
+### Features
+- Every coin in supported games
+- Millions-Billions of QR codes for *each* coin in *each* game.
+- current supported games: YW2
+- planned supported games: YW1, YW1S, YW1P, YW3, YWB, Sangokushi, YWB2, Yo-kai Watch Land, Yo-kai Watch Puni Puni
 
 ## Notes
 - These store data in folders next to the main `.html` - this is important as opening them without extracting the `zip` (double clicking it on windows instead) can cause it to not have access to these files, breaking the tools.
