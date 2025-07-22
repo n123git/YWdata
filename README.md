@@ -53,7 +53,8 @@ This website (can be downloaded optionally) functions as a sort of library of ba
 - current supported games: YW2
 - planned supported games: YW1, YW1S, YW1P, YW3, YWB, Sangokushi, YWB2, Yo-kai Watch Land, Yo-kai Watch Puni Puni.
 
-Source code available: [here](https://github.com/n123git/qrbel)
+Source code available: [here](https://github.com/n123git/qrbel).
+Hosted website avilable: [here](n123git.github.io/qrbel).
 
 ## Notes
 - These store data in folders next to the main `.html` - this is important as opening them without extracting the `zip` (double clicking it on windows instead) can cause it to not have access to these files, breaking the tools.
